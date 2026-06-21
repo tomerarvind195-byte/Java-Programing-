@@ -308,7 +308,7 @@ File I/O
 - [x] Learn Multithreading & Concurrency
 - [x] Master Lambda Expressions & Streams (Java 8+)
 - [x] Connect Java to MySQL using JDBC
-- [ +] Solve 50+ LeetCode problems in Java
+- [ ] Solve 50+ LeetCode problems in Java
 
 ---
 
