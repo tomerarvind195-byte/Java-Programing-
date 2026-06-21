@@ -3,16 +3,16 @@
 > A structured collection of Java programs covering core to intermediate concepts — OOP, Collections, Exception Handling, File I/O, and mini projects.
 
 ![Java](https://img.shields.io/badge/Java-17+-orange?style=flat&logo=openjdk)
-![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-blue?style=flat)
-![Topics](https://img.shields.io/badge/Topics-15+-green?style=flat)
-![Programs](https://img.shields.io/badge/Programs-60+-purple?style=flat)
+![Level](https://img.shields.io/badge/Level-Intermediate%20to%20Advanced-blue?style=flat)
+![Topics](https://img.shields.io/badge/Topics-15%2B-green?style=flat)
+![Programs](https://img.shields.io/badge/Programs-80%2B-purple?style=flat)
 ![Status](https://img.shields.io/badge/Status-Actively%20Updated-brightgreen?style=flat)
 
 ---
 
 ## 📋 About This Repository
 
-This repository contains my **Java learning journey** — from core syntax and OOP principles to Collections Framework, Exception Handling, and File I/O. Every folder covers one topic with clean, well-commented code and real examples.
+This repository contains my **Java learning journey** — from core syntax and OOP to Collections Framework, Multithreading, Lambda & Streams, and JDBC Database Connectivity. Every folder covers one topic with clean, well-commented code and real examples.
 
 > 💡 Regularly updated as I progress through intermediate to advanced Java.
 
@@ -91,11 +91,31 @@ java-practice/
 │   ├── ATMSimulator.java
 │   └── QuizApp.java
 │
-└── 11_practice_problems/
+├── 11_practice_problems/
     ├── PatternPrinting.java
     ├── StringProblems.java
     ├── MathProblems.java
     └── OOPProblems.java
+├── 12_multithreading/
+│   ├── ThreadClass.java
+│   ├── RunnableInterface.java
+│   ├── Synchronization.java
+│   ├── ThreadLifecycle.java
+│   └── ProducerConsumer.java
+│
+├── 13_lambda_streams/
+│   ├── LambdaBasics.java
+│   ├── FunctionalInterface.java
+│   ├── StreamAPI.java
+│   ├── FilterMapReduce.java
+│   └── OptionalClass.java
+│
+└── 14_jdbc/
+    ├── JdbcConnection.java
+    ├── InsertRecord.java
+    ├── ReadRecords.java
+    ├── UpdateRecord.java
+    └── DeleteRecord.java
 ```
 
 ---
@@ -115,9 +135,9 @@ java-practice/
 | 09 | Generics | ✅ Done |
 | 10 | Mini Projects | ✅ Done |
 | 11 | Practice Problems | 🔄 Ongoing |
-| 12 | Multithreading & Concurrency | 🔜 Coming Soon |
-| 13 | Lambda Expressions & Streams | 🔜 Coming Soon |
-| 14 | JDBC — Database Connectivity | 🔜 Coming Soon |
+| 12 | Multithreading & Concurrency | ✅ Done |
+| 13 | Lambda Expressions & Streams | ✅ Done |
+| 14 | JDBC — Database Connectivity | ✅ Done |
 | 15 | Java 17+ Features | 🔜 Coming Soon |
 
 ---
@@ -285,18 +305,18 @@ File I/O
 - [x] Implement Exception Handling & Custom Exceptions
 - [x] File I/O operations
 - [x] Build 5 mini projects in Java
-- [ ] Learn Multithreading & Concurrency
-- [ ] Master Lambda Expressions & Streams (Java 8+)
-- [ ] Connect Java to MySQL using JDBC
+- [x] Learn Multithreading & Concurrency
+- [x] Master Lambda Expressions & Streams (Java 8+)
+- [x] Connect Java to MySQL using JDBC
 - [ ] Solve 50+ LeetCode problems in Java
 
 ---
 
 ## 🔮 Coming Next
 
-- [ ] `12_multithreading/` — Thread class, Runnable, synchronization
-- [ ] `13_lambda_streams/` — Lambda expressions, Stream API, Optional
-- [ ] `14_jdbc/` — Connect Java to MySQL, CRUD operations
+- [x] `12_multithreading/` — Thread class, Runnable, synchronization ✅
+- [x] `13_lambda_streams/` — Lambda expressions, Stream API, Optional ✅
+- [x] `14_jdbc/` — Connect Java to MySQL, CRUD operations ✅
 - [ ] `15_java17_features/` — Records, sealed classes, pattern matching
 - [ ] LeetCode solutions in Java
 
@@ -311,7 +331,7 @@ File I/O
 | Syntax | Verbose | Concise |
 | OOP | Strictly OOP | Multi-paradigm |
 | Use Case | Enterprise, Android | AI/ML, Web, Scripting |
-| My Proficiency | Intermediate ⭐⭐⭐ | Intermediate-Advanced ⭐⭐⭐⭐ |
+| My Proficiency | Intermediate-Advanced ⭐⭐⭐⭐ | Intermediate-Advanced ⭐⭐⭐⭐ |
 
 ---
 
