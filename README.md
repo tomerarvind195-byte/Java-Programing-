@@ -12,7 +12,7 @@
 
 ## 📋 About This Repository
 
-This repository contains my **Java learning journey** — from core syntax and OOP to Collections Framework, Multithreading, Lambda & Streams, and JDBC Database Connectivity. Every folder covers one topic with clean, well-commented code and real examples.
+This repository contains my **Java learning journey** — from core syntax and OOP to Collections Framework, Multithreading, Lambda & Streams, and JDBC Database Connectivity. Every folder covers one topic with clean, well-commented code and real examples with solution.
 
 > 💡 Regularly updated as I progress through intermediate to advanced Java.
 
