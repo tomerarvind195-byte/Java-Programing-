@@ -353,6 +353,7 @@ File I/O
 - 🌐 [LinkedIn](https://www.linkedin.com/in/arvind-kumar-399a60338)
 - 💻 [GitHub](https://github.com/tomerarvind195-byte)
 - 📧 tomerarvind195@gmail.com
+- 📧. arvind.it.24024@recb.ac.in
 
 ---
 
