@@ -241,6 +241,7 @@ class BankAccount {
 
 ### Prerequisites
 - Java JDK 17+
+- intlij 
 - Git
 - IDE: VS Code / IntelliJ IDEA / Eclipse
 
