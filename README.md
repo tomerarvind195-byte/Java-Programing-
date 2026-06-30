@@ -125,7 +125,7 @@ java-practice/
 | # | Topic | Status |
 |---|-------|--------|
 | 01 | Java Basics — Data Types, Operators, I/O | ✅ Done |
-| 02 | Control Flow — if/else, loops, switch | ✅ Done |
+| 02 | Control Flow — if/else, loops(for , while,do while), switch | ✅ Done |
 | 03 | Arrays & Strings | ✅ Done |
 | 04 | Object Oriented Programming (OOP) | ✅ Done |
 | 05 | Collections Framework | ✅ Done |
